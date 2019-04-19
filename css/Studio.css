@@ -32,7 +32,9 @@ footer{
   text-align: center;
 }
 
-
+*:focus{
+border: 5px white;
+}
 .headimg {
   width: 95vw;
   margin-bottom: 2vh;
